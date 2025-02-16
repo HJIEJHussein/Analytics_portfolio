@@ -6,6 +6,8 @@
 - [Data source](#data-source)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
@@ -35,7 +37,7 @@ The primary dataset used for this analysis is the script 1 of the "md_water_serv
 
 - Used MySQL Worbench software to code and respond to those questions,check the "md_water_services.mwb" file
 
-### Results / Findings
+### Findings
 
 -  Most water sources are rural in Maji Ndogo.
 -  43% of our people are using shared taps. 2000 people often share one tap.
