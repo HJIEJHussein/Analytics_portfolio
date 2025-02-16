@@ -41,7 +41,7 @@ The primary dataset used for this analysis is the script file in the SQL script 
 ### Findings
 
 -  Most water sources are rural in Maji Ndogo.	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20sources%20per%20location_type.png)
--  43% of our people are using shared taps. 2000 people often share one tap.	![alt text](image.jpg)
+-  43% of our people are using shared taps. 2000 people often share one tap.	![alt text]([image.jpg](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png))
 -  31% of our population has water infrastructure in their homes 	![alt text](image.jpg)
 -  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
    of towns across Akatsi and Hawassa have broken infrastructure. 	![alt text](image.jpg)
