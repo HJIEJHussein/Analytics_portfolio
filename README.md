@@ -18,7 +18,7 @@ average time for Queuing
 
 ### Data source 
 
-The primary dataset used for this analysis is the script 1 of the "md_water_services.mwb" file, containing the database of the project [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services.mwb]
+The primary dataset used for this analysis is the script file in the SQL script files rubric of the "md_water_services.mwb" file, containing the database of the project [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services.mwb]
 
 ### Tools
 
