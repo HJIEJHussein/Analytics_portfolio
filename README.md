@@ -47,7 +47,7 @@ The primary dataset used for this analysis is the script file in the SQL script 
    of towns across Akatsi and Hawassa have broken infrastructure. 	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/percentage%20of%20people%20per%20source%20type%20and%20per%20province%20name.png) ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20tap%20in%20home%20broken%20by%20town%20name%20and%20province%20name.png)
 -  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi. 	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20wells%20per%20results.png) ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20clean%20wells%20per%20province.png)
 -  Our citizens often face long wait times for water, averaging more than 120 minutes ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20time%20of%20queue.png)
--  Queues are very long on Saturdays. ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20time%20of%20queue.png)
+-  Queues are very long on Saturdays. ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20day%20of%20the%20week.png)
 -  Queues are longer in the mornings and evenings. 	![alt text](image.jpg)
 -  Wednesdays and Sundays have the shortest queues. 	![alt text](image.jpg)
 
