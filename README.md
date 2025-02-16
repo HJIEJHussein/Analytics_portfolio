@@ -43,7 +43,7 @@ The primary dataset used for this analysis is the script 1 of the "md_water_serv
 -  43% of our people are using shared taps. 2000 people often share one tap.
 -  31% of our population has water infrastructure in their homes, but within that group,
 -  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
-of towns across Akatsi and Hawassa have broken infrastructure.
+   of towns across Akatsi and Hawassa have broken infrastructure.
 -  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Hawassa, Kilimani and Akatsi.
 -  Our citizens often face long wait times for water, averaging more than 120 minutes:
 -  Queues are very long on Saturdays.
