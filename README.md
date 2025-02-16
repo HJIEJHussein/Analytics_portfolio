@@ -70,8 +70,6 @@ Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 
 ### Visualisations and report 
 
-- Most people are served by rural water sources and they are mostly using shared taps
-  ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20people%20per%20location%20type.png)
 - During the week, people queue early in the morning, or late in the afternoon, before or after work.
 - On the weekends, people queue throughout the day more consistently. Saturdays have very long queues.
 - Women queue for water a lot more than men, but we can see over the weekends, men do a lot more.
