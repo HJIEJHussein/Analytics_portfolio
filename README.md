@@ -18,7 +18,7 @@ average time for Queuing
 
 ### Data source 
 
-The primary dataset used for this analysis is the script file in the SQL script files rubric of the "md_water_services.mwb" file, containing the database of the project [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services.mwb]
+The primary dataset used for this analysis is the script file in the SQL script files rubric of the "md_water_services.mwb" file, containing the database of the project [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services.mwb] and also the excel file "Md_water_services_data" for the Power BI visualisations and report 
 
 ### Tools
 
@@ -68,4 +68,8 @@ installing taps in homes, is resource-intensive and better suited as a long-term
 -  Addressing broken infrastructure offers a significant impact even with just a single intervention. It is expensive to fix, but so many people can
 benefit from repairing one facility. For example, fixing a reservoir or pipe that multiple taps are connected to. We identified towns like Amina,
 Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
+
+### Visualisations and report 
+
+Used Power BI to create visualisations and report
 
