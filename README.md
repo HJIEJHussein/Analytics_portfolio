@@ -71,10 +71,11 @@ Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 ### Visualisations and report 
 
 - Most people are served by rural water sources and they are mostly using shared taps
+  ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20people%20per%20location%20type.png)
 - During the week, people queue early in the morning, or late in the afternoon, before or after work.
 - On the weekends, people queue throughout the day more consistently. Saturdays have very long queues.
 - Women queue for water a lot more than men, but we can see over the weekends, men do a lot more.
 - Women queue with their children in Maji Ndogo.
 - we can see that the relationship between the queue length and the time it takes is mostly linear. So if we add a tap close to a shared tap serving 3000 people, 1500 of them can use the new one, and 1500 can use 
   the old one. The queue time will drop from 200 min to 100 min with just one tap
-  
+  ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20people%20per%20location%20type.png)
