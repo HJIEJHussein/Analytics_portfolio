@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data source](#data-source)
-- [Exploratory Data](#exploratory-data)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 
 ### Project Overview
@@ -23,7 +23,7 @@ The primary dataset used for this analysis is the script 1 of the "md_water_serv
 - SQL Server : Data analysis
 - Power BI : Creating Reports
 
-### Exploratory Data
+### Exploratory Data Analysis
 
 - What is the type of most of the water sources : Urban or rural ?
 - What is the type of the water source that is the most used by the population of Magi Ndogo ?
