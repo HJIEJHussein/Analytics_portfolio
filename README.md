@@ -45,7 +45,7 @@ The primary dataset used for this analysis is the script file in the SQL script 
 -  31% of our population has water infrastructure in their homes 	![alt text](image.jpg)
 -  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
    of towns across Akatsi and Hawassa have broken infrastructure. 	![alt text](image.jpg)
--  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Hawassa, Kilimani and Akatsi. 	![alt text](image.jpg)
+-  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi. 	![alt text](image.jpg)
 -  Our citizens often face long wait times for water, averaging more than 120 minutes 	![alt text](image.jpg)
 -  Queues are very long on Saturdays. 	![alt text](image.jpg)
 -  Queues are longer in the mornings and evenings. 	![alt text](image.jpg)
