@@ -40,15 +40,26 @@ The primary dataset used for this analysis is the script file in the SQL script 
 
 ### Findings
 
--  Most water sources are rural in Maji Ndogo.	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20sources%20per%20location_type.png)
--  43% of our people are using shared taps. 2000 people often share one tap.	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png) ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20number%20of%20people%20per%20type%20of%20water%20source.png)
--  31% of our population has water infrastructure in their homes 	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
+-  Most water sources are rural in Maji Ndogo.
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20sources%20per%20location_type.png)
+-  43% of our people are using shared taps. 2000 people often share one tap.
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20number%20of%20people%20per%20type%20of%20water%20source.png)
+-  31% of our population has water infrastructure in their homes
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
 -  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
-   of towns across Akatsi and Hawassa have broken infrastructure. 	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/percentage%20of%20people%20per%20source%20type%20and%20per%20province%20name.png) ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20tap%20in%20home%20broken%20by%20town%20name%20and%20province%20name.png)
--  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi. 	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20wells%20per%20results.png) ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20clean%20wells%20per%20province.png)
--  Our citizens often face long wait times for water, averaging more than 120 minutes ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20time%20of%20queue.png)
--  Queues are very long on Saturdays and Wednesdays and Sundays have the shortest queues . ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20day%20of%20the%20week.png)
--  Queues are longer in the mornings and evenings. 	![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
+   of towns across Akatsi and Hawassa have broken infrastructure.
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/percentage%20of%20people%20per%20source%20type%20and%20per%20province%20name.png)
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20tap%20in%20home%20broken%20by%20town%20name%20and%20province%20name.png)
+-  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi.
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20wells%20per%20results.png)
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20clean%20wells%20per%20province.png)
+-  Our citizens often face long wait times for water, averaging more than 120 minutes
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20time%20of%20queue.png)
+-  Queues are very long on Saturdays and Wednesdays and Sundays have the shortest queues .
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20day%20of%20the%20week.png)
+-  Queues are longer in the mornings and evenings.
+   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
 
 ### Recommendations 
 
