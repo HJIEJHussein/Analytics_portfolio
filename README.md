@@ -85,5 +85,5 @@ Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/National%20statistics.png)
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Queue%20page.png)
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pollution%20Page.png)
-![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
-![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
+![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20Data.png)
+![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20Data.png)
