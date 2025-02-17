@@ -81,4 +81,4 @@ Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 
 ### Visualisations and report 
 
-- Used Power BI software to represent the visualisations of our previous findings,check the "md_water_services.mwb" file [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services.mwb]
+- Used Power BI software to represent the visualisations of our previous findings and to confirm them,check the "md_water_services.mwb" file [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Magi%20Ndogo%20Report.pbix]
