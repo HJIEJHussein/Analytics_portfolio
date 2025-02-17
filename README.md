@@ -84,6 +84,6 @@ Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 - Used Power BI software to represent the visualisations of our previous findings and to confirm them,check the "md_water_services.mwb" file [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Magi%20Ndogo%20Report.pbix]
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/National%20statistics.png)
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Queue%20page.png)
-![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
+![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pollution%20Page.png)
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
