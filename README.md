@@ -81,9 +81,29 @@ Lusaka, Zuri, Djenne and rural parts of Amanzi seem to be good places to start.
 
 ### Visualisations and report 
 
-- Used Power BI software to represent the visualisations of our previous findings and to confirm them,check the "md_water_services.mwb" file [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Magi%20Ndogo%20Report.pbix]
+- Used Power BI software to represent the visualisations of our previous findings and to confirm them,check the "md_water_services.mwb" file [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Magi%20Ndogo%20Report.pbix] :
+  
+- 43 % of our population are using shared taps, 18% are using wells and 31% have water infrastructure within their homes
+- 45% face non-functional systems due to issues with pipes, pumps, and reservoirs.
+- Our citizens often face long wait times for water, averaging more than 120 minutes
+- Queues are very long on Saturdays and Wednesdays and Sundays have the shortest queues
+- During the week, people queue early in the morning, or late in the afternoon, before or after work. On the weekends, people queue throughout the
+  day more consistently.
+- Women queue for water a lot more than men
+- Only 28% of wells are clean, These are mostly in Sokoto, Kilimani and Akatsi
+  
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/National%20statistics.png)
+
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Queue%20page.png)
+
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pollution%20Page.png)
+
+- As water collectors, women are twice as likely to be a victim of crime than men.
+- Women are most likely to be victims of harassment, followed by sexual assault.
+- Crime spikes over weekends, and almost twice as many crimes are committed early in the mornings or at night with women again facing the
+  greatest threat.
+- In Amanzi, women face significantly less risk of being crime victims, because in Amanzi, the number of men queuing is twice the number of female
+
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20Data.png)
+
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20data%202.png)
