@@ -125,3 +125,8 @@ Used Power BI software to represent the visualisations of our previous findings 
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20Data.png)
 
 ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20data%202.png)
+
+- The national reports shows that only 34 % of the population in Magi Ndogo access to basic water services and that we will need to spend 109 000 000 dollars in order to improve
+  64% of our water sources
+
+![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Crime%20related%20data%202.png)
